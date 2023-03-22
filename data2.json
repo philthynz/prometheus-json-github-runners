@@ -1,27 +1,14 @@
 {
-  "coins": [
+  "runners": [
     {
       "id": "bitcoin",
       "icon": "https://static.coinstats.app/coins/Bitcoin6l39t.png",
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "rank": 1,
-      "price": 40224.98822527244,
-      "priceBtc": 1,
-      "volume": 396892467427897.7,
-      "marketCap": 762621770614.047,
-      "availableSupply": 18958906,
-      "totalSupply": 21000000,
-      "priceChange1h": 0.58,
-      "priceChange1d": 0,
-      "priceChange1w": -4.52,
-      "websiteUrl": "http://www.bitcoin.org",
-      "twitterUrl": "https://twitter.com/bitcoin",
-      "exp": [
-        "https://blockchair.com/bitcoin/",
-        "https://btc.com/",
-        "https://btc.tokenview.com/"
-      ]
+      "status": "online"
+    },
+    {
+      "id": "smartcoin",
+      "icon": "https://static.coinstats.app/coins/Bitcoin6l40t.png",
+      "status": "online"
     }
   ]
 }
